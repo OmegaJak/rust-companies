@@ -16,6 +16,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 * [Bencher](https://bencher.dev) ([GitHub](https://github.com/bencherdev/bencher)) - A suite of continuous benchmarking tools designed to catch performance regressions in CI.
 * [Brave](https://brave.com)
   ([GitHub](https://github.com/brave/adblock-rust)) - Adblock engine for Brave Browser.
+* [Deno](https://deno.com/) ([GitHub](https://github.com/denoland/deno)) - Deno is a simple, modern and secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust.
 * [Discord](https://discordapp.com)
   ([1](https://discord.com/blog/using-rust-to-scale-elixir-for-11-million-concurrent-users), [2](https://discord.com/blog/why-discord-is-switching-from-go-to-rust)) - Communication Platform designed for communities.
 * [DungeonFog](https://www.dungeonfog.com/news/project-deios/)
