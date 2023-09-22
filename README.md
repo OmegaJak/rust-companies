@@ -32,6 +32,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 * [Microsoft](https://www.microsoft.com/) - [windows-rs](https://github.com/microsoft/windows-rs) allows you to call Windows API using Rust. Rust has also been integrated into Windows kernel. There are several Azure services also using Rust, including [Azure IoT Edge](https://github.com/Azure/iotedge) and Kusto, the core query and storage engine for [Azure Data Explorer](https://azure.microsoft.com/en-us/products/data-explorer).
 * [Mozilla](https://www.mozilla.org)
   ([GitHub](https://github.com/mozilla), [Servo](https://servo.org)) - Building the Servo browser engine, integrating into Firefox, other projects.
+* [Quadratic](https://www.quadratichq.com/) ([GitHub](https://github.com/quadratichq/quadratic)) - Web-based spreadsheet application that runs in the browser. Core is Rust targetting WASM.
 * [Qumulo](https://qumulo.com/)([1](https://qumulo.com/blog/rust-programming-language-at-qumulo/), [2](https://qumulo.com/blog/writing-procedural-macros-in-rust/)) - Hybrid cloud storage.
 * [Stackable](https://stackable.tech/)([1](https://github.com/stackabletech/kafka-operator#about-the-stackable-data-platform)) - Creating a modular open source data platform. Rust powers all our operators to help make popular data applications straightforward to run on Kubernetes.
 * [Svix](https://www.svix.com/) ([GitHub](https://github.com/svix/svix-webhooks)) - The enterprise ready webhooks service
